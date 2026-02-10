@@ -1,4 +1,4 @@
-# student-data-analysis
+# Student Data Analysis
 A Python 3 class project that analyzes a set of Kaggle student data. Allows the user to pick different charts and stats. 
 
 ## Highlights 
